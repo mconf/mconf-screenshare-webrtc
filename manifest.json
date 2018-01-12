@@ -18,7 +18,10 @@
   ],
   "externally_connectable": {
       "matches": [
-          "*://*.mconf.com/*"
+          "*://*.mconf.com/*",
+          "*://*.dev.mconf.com/*",
+          "*://*.bigbluebutton.org/*",
+          "*://*.blindside-dev.com/*"
       ]
   },
   "web_accessible_resources": [
