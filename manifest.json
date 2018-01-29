@@ -22,7 +22,7 @@
           "*://*.dev.mconf.com/*",
           "*://*.bigbluebutton.org/*",
           "*://*.blindside-dev.com/*",
-          "*.//*.imdt.com.br/*"
+          "*://*.imdt.com.br/*"
       ]
   },
   "web_accessible_resources": [
