@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Kurento Screenshare Test Extension",
-  "description": "test extension",
-  "version": "0.1.4",
+  "name": "Mconf Screenshare",
+  "description": "A simple extension that allows you to stream your desktop into meetings with Mconf.",
+  "version": "0.1.5",
   "minimum_chrome_version": "34",
   "icons": {
     "16": "logo-16x16.png",
@@ -22,7 +22,8 @@
           "*://*.dev.mconf.com/*",
           "*://*.bigbluebutton.org/*",
           "*://*.blindside-dev.com/*",
-          "*://*.imdt.com.br/*"
+          "*://*.imdt.com.br/*",
+          "*://*.rnp.br/*"
       ]
   },
   "web_accessible_resources": [
