@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Mconf Screenshare",
-  "description": "A simple extension that allows you to stream your desktop into meetings with Mconf.",
+  "name": "GreenLight Web Screenshare",
+  "description": "A simple extension that allows you to stream your desktop into meetings with GreenLight Web.",
   "version": "0.1.5",
   "minimum_chrome_version": "34",
   "icons": {
@@ -18,12 +18,7 @@
   ],
   "externally_connectable": {
       "matches": [
-          "*://*.mconf.com/*",
-          "*://*.dev.mconf.com/*",
-          "*://*.bigbluebutton.org/*",
-          "*://*.blindside-dev.com/*",
-          "*://*.imdt.com.br/*",
-          "*://*.rnp.br/*"
+          "*://*.glcollaboration.com/*"
       ]
   },
   "web_accessible_resources": [
