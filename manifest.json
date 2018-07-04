@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Mconf Screenshare",
   "description": "A simple extension that allows you to stream your desktop into meetings with Mconf.",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "minimum_chrome_version": "34",
   "icons": {
     "16": "logo-16x16.png",
@@ -19,11 +19,15 @@
   "externally_connectable": {
       "matches": [
           "*://*.mconf.com/*",
+          "*://*.mconf.com.br/*",
+          "*://*.mconf.org/*",
           "*://*.dev.mconf.com/*",
           "*://*.bigbluebutton.org/*",
           "*://*.blindside-dev.com/*",
           "*://*.imdt.com.br/*",
-          "*://*.rnp.br/*"
+          "*://*.rnp.br/*",
+          "*://*.redclara.net/*",
+          "*://*.ufrgs.br/*"
       ]
   },
   "web_accessible_resources": [
