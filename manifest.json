@@ -27,7 +27,8 @@
           "*://*.imdt.com.br/*",
           "*://*.rnp.br/*",
           "*://*.redclara.net/*",
-          "*://*.ufrgs.br/*"
+          "*://*.ufrgs.br/*",
+          "*://*.capacitador.com.br/*"
       ]
   },
   "web_accessible_resources": [
